@@ -12,6 +12,7 @@ Read the directions and complete all activities in each file, in this order:
 - `comparisons.rb`
 - `decision_making.rb`
 - `if_statements.rb`
+- `self-evaluation.md`
 
 Based on what you know about Git workflow, make commits as you see fit.
 
