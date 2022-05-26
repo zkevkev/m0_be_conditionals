@@ -64,8 +64,8 @@ siblings = 2
 puts friends > siblings
 # YOU DO: Explain.
 
-attendees = 9;
-meals = 8;
+attendees = 9
+meals = 8
 puts attendees != meals
 # YOU DO: Explain.
 
