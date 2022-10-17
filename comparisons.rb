@@ -79,9 +79,9 @@ finished_homework = false
 
 # EXAMPLE:
 # Determine if the user is hungry and has completed their homework
-is_hungry && finished_homework
+puts is_hungry && finished_homework
 # Determine if the user is hungry or has completed their homework
-is_hungry || finished_homework
+puts is_hungry || finished_homework
 
 loves_to_play = true
 loves_dog_park = false
