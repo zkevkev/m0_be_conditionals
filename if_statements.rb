@@ -25,7 +25,7 @@ else
 end
 
 # Experiment with manipulating the value held in variable 'weather'
-# to print something other than 'coat'
+# to print something other than 'sunscreen'
 
 
 ##################
